@@ -1,0 +1,10 @@
+h1 {
+    color: white;
+    width: 33%;
+    margin: 0 auto;
+}
+
+div#titulo {
+    background-color: #2f4494;
+    width: 50%;
+}
